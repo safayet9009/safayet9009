@@ -56,13 +56,13 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafayet9009&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shafayet9009&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safayet9009&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safayet9009&layout=compact&theme=radical)
 
 ---
 
 ### 🔥 Contribution Graph:
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shafayet9009&theme=react-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=safayet9009&theme=react-dark)
 
 ---
 
