@@ -67,9 +67,7 @@
 ---
 
 ### 🎨 Custom Image/GIF:
-![Custom Image](https://link-to-image.png)
-
-<img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100">
+![Custom Image](https://media.giphy.com/media/130161455/giphy.gif)
 
 ---
 
